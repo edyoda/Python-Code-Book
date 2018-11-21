@@ -1,0 +1,41 @@
+1.	Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included). 
+2.	 Write a Python program to convert temperatures to and from celcius, fahrenheit 
+[ Formula : c/5 = f-32/9 [ where c = temperature in celsius and f = temperature in fahrenheit ] 
+3.	Write a Python program to count the number of even and odd numbers from a series of numbers.  Sample numbers : numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9) 
+Expected Output : 
+Number of even numbers : 5
+Number of odd numbers : 4 
+4.	How many times will the following code print "Welcome to Python"?
+
+count = 0
+while count < 10:
+    print("Welcome to Python")
+    count += 1
+5.	What is the output of the following code?
+
+x = 0
+while x < 4:
+    x = x + 1
+
+print("x is", x)
+6.	What will be displayed when the following code is executed?
+
+    number = 6
+    while number > 0:
+        number -= 3
+        print(number)
+7.	Write a Python program which iterates the integers from 1 to 50. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+Sample Output : 
+fizzbuzz
+1
+2
+fizz
+4 
+buzz 
+8.	Write a Python program to calculate the sum and average of n integer numbers.
+9.	Write a Python program to get the Fibonacci series between 0 to 50. 
+10.	What will be the output for :
+x = 'abcd'
+for i in range(len(x)):
+    x = 'a'
+    print(x)

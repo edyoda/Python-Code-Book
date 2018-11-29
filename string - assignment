@@ -1,0 +1,20 @@
+1.	What is the output of the following Python program section?
+    st='Python Programming' 
+    x=st.lower()
+    y=x.replace('python','Python')
+    print y
+2.	txt='Python is powerful and easy.'
+  words=txt.split(' ')
+  l=len(worlds)
+   print l
+3.	What would be the output from the following Python program section?
+  st=['P','y','t','h','o','n']
+  w=''.join(st)
+  print w
+4.	How to check if a String contains only digits?
+5.	How to count number of vowels and consonants in a String?
+6.	How to replace each given character to other e.g. blank with %20? 
+7.	How to check if String is Palindrome?
+8.	You are given a string. Your task is to capitalize each word of the string.
+9.	You need to write a function to implement an algorithm which will accept a string of characters and should find the highest occurrence of the character and display it. For example if input is "aaaaaaaaaaaaaaaaabbbbcddddeeeeee" it should return "a".
+10.	How to count occurrence of a given character in String?
